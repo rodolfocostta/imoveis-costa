@@ -141,4 +141,16 @@ body {
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-      
+.Caixa{
+    align-items: center;
+    text-align: center;
+    background-color: #000000;
+    color: white;
+}
+.Texto{
+    width: 50%;
+    height: 50%;
+    align-content: center;
+    text-align: center;
+    
+}
